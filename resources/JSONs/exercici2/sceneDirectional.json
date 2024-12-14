@@ -1,0 +1,43 @@
+{
+    "scene": "Test materials",
+    "typeScene": "VIRTUAL",
+    "objects": [
+      {
+      "name": "Esfera",
+      "type":  "MESH",
+        "objFileName": "://resources/models/sphere0.obj",
+        "material": {
+          "type": "lambertian",
+          "ka": [0.2, 0.2, 0.2],
+          "kd": [1, 1, 1],
+          "kdtoon": [[0.9,1,0.2],
+                     [0.7,0.15,0.15],
+                     [0.4,0.1,0.1],
+                     [0.2,0.05,0.05]],
+          "ks": [0.2, 0.7, 0.7],
+          "shininess": 16.0,
+          "kt": [0.0, 0.0, 0.0],
+          "nut": 1
+        }
+      },
+      {
+      "name": "F-16",
+      "type":  "MESH",
+        "objFileName": "://resources/models/f16.obj",
+        "material": {
+          "type": "lambertian",
+          "ka": [0.2, 0.2, 0.2],
+          "kd": [0.8, 0.9, 1.0],
+          "kdtoon": [[0.1875, 0.832, 0.7813],
+                     [0.1406, 0.624, 0.586],
+                     [0.0938, 0.416, 0.3907],
+                     [0.0469, 0.208, 0.1953]],
+          "ks": [0.2, 0.7, 0.7],
+          "shininess": 16.0,
+          "kt": [0.0, 0.0, 0.0],
+          "nut": 1
+        }
+      }
+    ]
+}
+    

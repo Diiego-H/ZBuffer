@@ -1,0 +1,22 @@
+{
+    "scene": "Test materials",
+    "typeScene": "VIRTUAL",
+    "objects": [
+      {
+      "name": "F-16",
+      "type":  "MESH",
+        "objFileName": "://resources/models/sphere0.obj",
+        "texture": "://resources/textures/2k_earth_daymap.jpg",
+        "material": {
+          "type": "lambertian",
+          "ka": [0.9, 0.2, 0.2],
+          "kd": [0.0, 0.1, 1.0],
+          "ks": [0.2, 0.7, 0.7],
+          "shininess": 16.0,
+          "kt": [0.0, 0.0, 0.0],
+          "nut": 1
+          }
+      }
+    ]
+}
+    
