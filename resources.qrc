@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/GPUshaders/fshader1.glsl</file>
+        <file>resources/GPUshaders/vshader1.glsl</file>
+        <file>resources/GPUshaders/fColorShader.glsl</file>
+        <file>resources/GPUshaders/vColorShader.glsl</file>
+        <file>resources/GPUshaders/fNormalShader.glsl</file>
+        <file>resources/GPUshaders/vNormalShader.glsl</file>
+        <file>resources/GPUshaders/fGouraudShader.glsl</file>
+        <file>resources/GPUshaders/vGouraudShader.glsl</file>
+        <file>resources/GPUshaders/fBlinnPhongShader.glsl</file>
+        <file>resources/GPUshaders/vBlinnPhongShader.glsl</file>
+        <file>resources/GPUshaders/fCellShader.glsl</file>
+        <file>resources/GPUshaders/vCellShader.glsl</file>
+        <file>resources/GPUshaders/fExercici1.glsl</file>
+        <file>resources/GPUshaders/vExercici1.glsl</file>
+        <file>resources/GPUshaders/fExercici2.glsl</file>
+        <file>resources/GPUshaders/vExercici2.glsl</file>
+        <file>resources/GPUshaders/fIndirectMapping.glsl</file>
+        <file>resources/GPUshaders/vIndirectMapping.glsl</file>
+        <file>resources/assetsGUI/RTXOFF.png</file>
+        <file>resources/assetsGUI/RTXON.png</file>
+        <file>resources/assetsGUI/Background.png</file>
+        <file>resources/assetsGUI/Ia.png</file>
+        <file>resources/assetsGUI/3412784.png</file>
+        <file>resources/models/f16.obj</file>
+        <file>resources/models/cruiser.obj</file>
+        <file>resources/models/sphere0.obj</file>
+        <file>resources/models/sphere1.obj</file>
+        <file>resources/models/capsule.obj</file>
+        <file>resources/textures/F16s.bmp</file>
+        <file>resources/textures/cruiser.bmp</file>
+        <file>resources/textures/capsule0.jpg</file>
+        <file>resources/textures/2k_earth_daymap.jpg</file>
+    </qresource>
+</RCC>
